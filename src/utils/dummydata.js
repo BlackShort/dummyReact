@@ -1,0 +1,128 @@
+export const data = [
+    {
+        id: 1,
+        heading: "Introduction to Statistics",
+        description: "Welcome to our card page",
+        link: "/course1",
+    },
+    {
+        id: 2,
+        heading: "New Course Available",
+        description: "Check out our latest course offering",
+        link: "/course2",
+    },
+    {
+        id: 3,
+        heading: "Advanced AI Techniques",
+        description: "Explore cutting-edge AI methods",
+        link: "/course3",
+    },
+    {
+        id: 4,
+        heading: "Data Science Basics",
+        description: "Learn the fundamentals of data science",
+        link: "/course4",
+    },
+    {
+        id: 5,
+        heading: "Machine Learning",
+        description: "Introduction to machine learning concepts",
+        link: "/course5",
+    },
+    {
+        id: 6,
+        heading: "Deep Learning",
+        description: "Dive deep into neural networks and deep learning",
+        link: "/course6",
+    },
+    {
+        id: 7,
+        heading: "Natural Language Processing",
+        description: "Understand the basics of NLP",
+        link: "/course7",
+    },
+    {
+        id: 8,
+        heading: "Computer Vision",
+        description: "Introduction to computer vision techniques",
+        link: "/course8",
+    },
+    {
+        id: 9,
+        heading: "Big Data Analytics",
+        description: "Learn to handle and analyze big data",
+        link: "/course9",
+    },
+    {
+        id: 10,
+        heading: "Cloud Computing",
+        description: "Get started with cloud computing",
+        link: "/course10",
+    },
+    {
+        id: 11,
+        heading: "Blockchain Technology",
+        description: "Explore the world of blockchain",
+        link: "/course11",
+    },
+    {
+        id: 12,
+        heading: "Internet of Things (IoT)",
+        description: "Introduction to IoT concepts",
+        link: "/course12",
+    },
+    {
+        id: 13,
+        heading: "Cybersecurity",
+        description: "Learn about cybersecurity fundamentals",
+        link: "/course13",
+    },
+    {
+        id: 14,
+        heading: "Artificial Intelligence Ethics",
+        description: "Discuss the ethical implications of AI",
+        link: "/course14",
+    },
+    {
+        id: 15,
+        heading: "Reinforcement Learning",
+        description: "An introduction to reinforcement learning",
+        link: "/course15",
+    },
+    {
+        id: 16,
+        heading: "Data Visualization",
+        description: "Learn to visualize data effectively",
+        link: "/course16",
+    },
+    {
+        id: 17,
+        heading: "Time Series Analysis",
+        description: "Understand time series data and analysis techniques",
+        link: "/course17",
+    },
+    {
+        id: 18,
+        heading: "Statistical Inference",
+        description: "Learn about statistical inference methods",
+        link: "/course18",
+    },
+    {
+        id: 19,
+        heading: "Predictive Analytics",
+        description: "Introduction to predictive analytics",
+        link: "/course19",
+    },
+    {
+        id: 20,
+        heading: "AI in Healthcare",
+        description: "Explore the application of AI in healthcare",
+        link: "/course20",
+    },
+    {
+        id: 21,
+        heading: "AI for Robotics",
+        description: "Learn how AI is used in robotics",
+        link: "/course21",
+    }
+];
